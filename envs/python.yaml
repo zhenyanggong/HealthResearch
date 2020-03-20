@@ -1,0 +1,7 @@
+name: labsysmed_project
+channels:
+    - conda-forge
+dependencies:
+    - python>=3.6.5
+    - feather-format>=0.3.1
+    - pandas=0.23.4

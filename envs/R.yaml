@@ -1,0 +1,7 @@
+name: labsysmed_project
+channels:
+    - r
+dependencies:
+    - r-base>=3.4.3
+    - r-feather=0.3.1
+    - r-ggplot2=2.2.1
